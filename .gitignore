@@ -1,0 +1,8 @@
+sim/*.raw
+sim/*.net
+sim/*.raw
+sim/*.log
+sim/*.plt
+sim/*.fft
+kicad/*/*.sch-bak
+.DS_Store
